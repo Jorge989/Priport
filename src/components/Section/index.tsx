@@ -22,7 +22,7 @@ const Section: React.FC<Props> = ({ variant, title, description , descricao}) =>
   
     function handleToggle() {
       const text = '';
-      const phone = '11930281989';
+      const phone = '5511983788956';
       window.location.href = `https://api.whatsapp.com/send?text=${text}&phone=${phone}`;
     }
   

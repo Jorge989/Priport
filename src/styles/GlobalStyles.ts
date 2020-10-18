@@ -247,12 +247,14 @@ align-items: center;
       color: #111344;
       display: flex;
       position: relative;
+      margin-bottom: 15px;
     text-decoration: none;
     }
     .link{
       background-color: #EDF2F4;
       display: flex;
   padding-left: 35px;
+  padding-top: 20px;
       
     }
     @media screen and (max-width:768px){
@@ -267,6 +269,7 @@ align-items: center;
       display: flex;
       position: relative;
     text-decoration: none;
+    
        
       }
       .link{
