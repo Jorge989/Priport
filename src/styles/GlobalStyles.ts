@@ -71,7 +71,7 @@ export default createGlobalStyle`
     
      margin-top:-290px;
      width:60%;
-    height:50%;
+    height:40%;
     z-index:2;
     position: absolute;
      margin-left: 25px;
