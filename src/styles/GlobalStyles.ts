@@ -232,7 +232,7 @@ align-items: center;
 
   width: 100%;
   height: 80%;
-  margin-top: -400px;
+  margin-top: -410px;
   margin-left: 0;
   display: flex;
   position: absolute;
@@ -256,13 +256,14 @@ align-items: center;
    
    .planb2 {
     background-color: #EDF2F4;
-  
+ 
   width: 100%;
   height: 80%;
   margin-top: 30px;
   margin-left: 0px;
   display: flex;
   position: absolute;
+  
       
        
       }
@@ -284,7 +285,7 @@ align-items: center;
     background-color: #EDF2F4;
   width: 100%;
   height: 80%;
-  margin-top: 460px;
+  margin-top: 465px;
   margin-left: 0px;
   display: flex;
   position: absolute;
