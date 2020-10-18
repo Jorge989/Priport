@@ -1,26 +1,31 @@
 export default [
   {
-    title: 'Concentre-se apenas no trabalho importante',
+    title: 'Já pensou em ter uma assitente pessoal sem burocracias e ganhar mais tempo.',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis. Quisque et elit ut eros ultrices mollis. Donec non ullamcorper sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.',
+      'Podemos começar ? ',
+      descricao: '',
   },
   {
-    title: 'Diga adeus ao trabalho maçante',
+    title: 'Muito além de ser um diferencial, a organização pessoal garante maior eficiência e otimização do tempo, para focar no que realmente é importante.',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis. Quisque et elit ut eros ultrices mollis. Donec non ullamcorper sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.',
+      'Nosso atendimento remoto é mais econômico, sem custos fixos nem custos empregatícios, é acessível para quem não dispõe ou não deseja uma estrutura física de atendimento.Atendemos executivos, empresários, médicos, profissionais liberais e famílias.',
+      descricao: '',
   },
   {
-    title: 'Armazenamento e compartilhamento de arquivos são só o começo',
+    title: 'Sobre',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis. Quisque et elit ut eros ultrices mollis.',
+      'Atuo na área financeira a mais de 10 anos, possuo experiência processamento e baixas de pagamentos, conciliação bancária, contas a pagar e receber, fluxo de caixa e toda parte de planejamento e organização de uma empresa.',
+      descricao: '',
   },
   {
-    title: 'Para todos',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Nossos serviços',
+    description: '',
+    descricao: '',
   },
   {
-    title: 'Parte inferior da página',
+    title: 'Escolha o plano certo para você',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis.',
+      '',
+      descricao: '',
   },
 ];
