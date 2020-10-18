@@ -259,7 +259,7 @@ align-items: center;
  
   width: 100%;
   height: 80%;
-  margin-top: 40px;
+  margin-top: 60px;
   margin-left: 0px;
   display: flex;
   position: absolute;
@@ -285,7 +285,7 @@ align-items: center;
     background-color: #EDF2F4;
   width: 100%;
   height: 80%;
-  margin-top: 490px;
+  margin-top: 530px;
   margin-left: 0px;
   display: flex;
   position: absolute;
