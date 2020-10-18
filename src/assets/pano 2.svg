@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="648.001" height="1004" viewBox="0 0 648.001 1004">
+  <defs>
+    <filter id="Retângulo_2235" x="0" y="4" width="648" height="1000" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_2235-2" x="0.001" y="0" width="648" height="1004" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_3583" x="0.001" y="0" width="648" height="1004" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-3"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_38556" data-name="Grupo 38556" transform="translate(-712.999 367)">
+    <rect id="Retângulo_3584" data-name="Retângulo 3584" width="528" height="124" transform="translate(773 -303)" fill="blue" opacity="0.86"/>
+    <text id="_15" data-name="$15" transform="translate(973 11)" fill="#fff" font-size="61" font-family="Muli-ExtraBold, Muli" font-weight="800"><tspan x="0" y="0">$15</tspan></text>
+    <g id="Grupo_38551" data-name="Grupo 38551" transform="translate(772.744 -302.881)">
+      <g transform="matrix(1, 0, 0, 1, -59.74, -64.12)" filter="url(#Retângulo_2235)">
+        <rect id="Retângulo_2235-3" data-name="Retângulo 2235" width="528" height="880" rx="7" transform="translate(60 64)" fill="#fff"/>
+      </g>
+      <rect id="Retângulo_2244" data-name="Retângulo 2244" width="528" height="146" transform="translate(0.255 64.881)" fill="#fff" opacity="0.23"/>
+      <text id="Basic" transform="translate(199.256 120.88)" fill="#fff" font-size="41" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">Basic</tspan></text>
+      <text id="_10" data-name="$10" transform="translate(199.256 293.88)" fill="#fff" font-size="61" font-family="Muli-ExtraBold, Muli" font-weight="800"><tspan x="0" y="0">$10</tspan></text>
+      <text id="For_small_business" data-name="For small business" transform="translate(176.256 154.88)" fill="#fff" font-size="20" font-family="Muli-Light, Muli" font-weight="300"><tspan x="0" y="20">For small business</tspan></text>
+      <g id="Grupo_2415" data-name="Grupo 2415" transform="translate(118.664 687.528)">
+        <path id="Caminho_1552" data-name="Caminho 1552" d="M8.447,0h277.68c4.665,0,8.447,4.293,8.447,9.589V86.3c0,5.3-3.782,9.589-8.447,9.589H8.447C3.782,95.89,0,91.6,0,86.3V9.589C0,4.293,3.782,0,8.447,0Z" transform="translate(0 0)" fill="#fff"/>
+        <text id="Get_It_Now" data-name="Get It Now" transform="translate(94.591 51.353)" fill="#fff" font-size="16" font-family="Muli-Regular, Muli"><tspan x="0" y="0">Get It Now</tspan></text>
+      </g>
+    </g>
+    <rect id="Retângulo_3585" data-name="Retângulo 3585" width="528" height="124" transform="translate(773 -303)" fill="blue" opacity="0.86"/>
+    <path id="Caminho_44851" data-name="Caminho 44851" d="M8.851,0H299.83c4.888,0,8.851,4.293,8.851,9.589V86.3c0,5.3-3.963,9.589-8.851,9.589H8.851C3.963,95.89,0,91.6,0,86.3V9.589C0,4.293,3.963,0,8.851,0Z" transform="translate(865.989 384.386)" fill="#2018fc"/>
+    <text id="Obtê-lo_Agora_" data-name="Obtê-lo Agora " transform="translate(956 440)" fill="#fff" font-size="22" font-family="Muli-Regular, Muli"><tspan x="0" y="0">Obtê-lo Agora </tspan></text>
+    <text id="ILIMITADO_ADICIONAR_PROCESSOS_CONTROLE_DE_EQUIPE_CONTROLE_DE_CLIENTES_MAPA_ATUALIZAÇÃO_HISTÓRICO_DE_PROCESSOS_CONTROLE_DE_DESPESAS_CONTROLE_DE_HONORÁRIOS_DASHBOARD_GERENCIAL_ALERTAS" data-name="ILIMITADO
+
+ADICIONAR PROCESSOS
+
+CONTROLE DE EQUIPE
+
+CONTROLE DE CLIENTES
+
+MAPA
+
+ATUALIZAÇÃO HISTÓRICO DE PROCESSOS
+
+CONTROLE DE DESPESAS
+
+CONTROLE DE HONORÁRIOS
+
+DASHBOARD GERENCIAL
+
+ALERTAS" transform="translate(837 -130)" fill="#1d1d1d" font-size="24" font-family="Muli-Bold, Muli" font-weight="700" letter-spacing="0.167em"><tspan x="0" y="24">ILIMITADO</tspan><tspan x="0" y="49"></tspan><tspan x="0" y="74">ADICIONAR PROCESSOS</tspan><tspan x="0" y="99"></tspan><tspan x="0" y="124">CONTROLE DE EQUIPE</tspan><tspan x="0" y="149"></tspan><tspan x="0" y="174">CONTROLE DE CLIENTES</tspan><tspan x="0" y="199"></tspan><tspan x="0" y="224">MAPA</tspan><tspan x="0" y="249"></tspan><tspan x="0" y="274">ATUALIZAÇÃO HISTÓRICO </tspan><tspan x="0" y="299">DE PROCESSOS</tspan><tspan x="0" y="324"></tspan><tspan x="0" y="349">CONTROLE DE DESPESAS</tspan><tspan x="0" y="374"></tspan><tspan x="0" y="399">CONTROLE DE </tspan><tspan x="0" y="424">HONORÁRIOS</tspan><tspan x="0" y="449"></tspan><tspan x="0" y="474">DASHBOARD GERENCIAL</tspan></text>
+    <text id="PLANO_PREMIUM" data-name="PLANO PREMIUM" transform="translate(855 -256)" fill="#fff" font-size="28" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.369em"><tspan x="0" y="29">PLANO PREMIUM</tspan></text>
+    <rect id="Retângulo_3586" data-name="Retângulo 3586" width="528" height="124" transform="translate(773 -303)" fill="blue" opacity="0.86"/>
+    <text id="_15-2" data-name="$15" transform="translate(973 11)" fill="#fff" font-size="61" font-family="Muli-ExtraBold, Muli" font-weight="800"><tspan x="0" y="0">$15</tspan></text>
+    <g id="Grupo_38552" data-name="Grupo 38552" transform="translate(956.744 -178.881)">
+      <g transform="matrix(1, 0, 0, 1, -243.74, -188.12)" filter="url(#Retângulo_2235-2)">
+        <rect id="Retângulo_2235-4" data-name="Retângulo 2235" width="528" height="884" rx="7" transform="translate(60 60)" fill="#edf2f4"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -243.74, -188.12)" filter="url(#Retângulo_3583)">
+        <rect id="Retângulo_3583-2" data-name="Retângulo 3583" width="528" height="884" rx="7" transform="translate(60 60)" fill="#edf2f4"/>
+      </g>
+    </g>
+    <path id="Caminho_44852" data-name="Caminho 44852" d="M0-1,528,0V124H0Z" transform="translate(773 -307)" fill="#111344" opacity="0.86"/>
+    <text id="PLANOS_5_HORAS_" data-name="PLANOS 5 HORAS " transform="translate(855 -288)" fill="#f9f6f6" font-size="42" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="44">PLANOS 5 HORAS </tspan></text>
+    <text id="_Mensais_" data-name="(Mensais)" transform="translate(953 -234)" fill="#f9f6f6" font-size="28" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.129em"><tspan x="0" y="29">(Mensais)</tspan></text>
+    <text id="R_" data-name="R$" transform="translate(845 -122)" fill="#3b3b3b" font-size="43" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="45">R$</tspan></text>
+    <text id="_400_00" data-name="400,00" transform="translate(919 -143)" fill="#3b3b3b" font-size="69" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="72">400,00</tspan></text>
+    <text id="_Mês_" data-name="(Mês)" transform="translate(1148 -116)" fill="#3b3b3b" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="31">(Mês)</tspan></text>
+    <text id="Atendimento_por_telefone_Email_ou_WhatsApp" data-name="Atendimento por telefone, Email ou WhatsApp" transform="translate(817 -8)" fill="#1d1d1d" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="31">Atendimento por telefone, Email </tspan><tspan x="0" y="62">ou WhatsApp</tspan></text>
+    <text id="Prazo_médio_para_a_resolução_das_tarefas_é_de_24_horas" data-name="Prazo médio para a resolução das tarefas é de 24 horas" transform="translate(817 93)" fill="#1d1d1d" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="31">Prazo médio para a resolução das </tspan><tspan x="0" y="62">tarefas é de 24 horas</tspan></text>
+    <text id="Sem_contrato_de_fidelidade" data-name="Sem contrato de fidelidade" transform="translate(817 194)" fill="#1d1d1d" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="31">Sem contrato de fidelidade</tspan></text>
+    <text id="Mude_seu_Plano_de_acordo_com_a_demanda" data-name="Mude seu Plano de acordo com a  demanda" transform="translate(817 270)" fill="#1d1d1d" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="31" xml:space="preserve">Mude seu Plano de acordo com a  </tspan><tspan x="0" y="62">demanda</tspan></text>
+    <text id="Ligações_para_todo_o_território_nacional_incluídas" data-name="Ligações para todo o território nacional incluídas" transform="translate(817 379)" fill="#1d1d1d" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="31">Ligações para todo o território </tspan><tspan x="0" y="62">nacional incluídas</tspan></text>
+  </g>
+</svg>

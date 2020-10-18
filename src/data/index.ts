@@ -1,6 +1,6 @@
 export default [
   {
-    title: 'Já pensou em ter uma assitente pessoal sem burocracias e ganhar mais tempo.',
+    title: 'Já pensou em ter uma assistente pessoal sem burocracia e ganhar mais tempo ?',
     description:
       'Podemos começar ? ',
       descricao: '',
@@ -14,7 +14,7 @@ export default [
   {
     title: 'Sobre',
     description:
-      'Atuo na área financeira a mais de 10 anos, possuo experiência processamento e baixas de pagamentos, conciliação bancária, contas a pagar e receber, fluxo de caixa e toda parte de planejamento e organização de uma empresa.',
+      'Atuo na área financeira há mais de 10 anos, possuo experiência processamento e baixas de pagamentos, conciliação bancária, contas a pagar e receber, fluxo de caixa e toda parte de planejamento e organização de uma empresa.',
       descricao: '',
   },
   {

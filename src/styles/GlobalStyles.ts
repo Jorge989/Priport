@@ -215,12 +215,13 @@ align-items: center;
   
   
 }
+
 .planb{
   background-color: #EDF2F4;
-  width: 90%;
+  width: 50%;
   height: 75%;
   margin-top: -480px;
-  margin-left: 70px;
+  margin-left: 10px;
   display: flex;
   position: absolute;
 }
@@ -228,10 +229,62 @@ align-items: center;
    
    .planb {
        
+
+  width: 100%;
+  height: 80%;
+  margin-top: -400px;
+  margin-left: 0;
+  display: flex;
+  position: absolute;
+  z-index:3;
+      
+       
+      }
+    }
+    .planb2{
+
+  width: 50%;
+  height: 75%;
+  margin-top: -480px;
+  margin-left: 340px;
+  display: flex;
+  position: absolute;
+  z-index:3;
+
+}
+@media screen and (max-width:768px){
+   
+   .planb2 {
+    background-color: #EDF2F4;
+  
+  width: 100%;
+  height: 80%;
+  margin-top: 20px;
+  margin-left: 0px;
+  display: flex;
+  position: absolute;
+      
+       
+      }
+    }
+        .planb3{
+
+  width: 50%;
+  height: 75%;
+  margin-top: -480px;
+  margin-left: 670px;
+  display: flex;
+  position: absolute;
+  z-index:3;
+}
+@media screen and (max-width:768px){
+   
+   .planb3 {
+       
     background-color: #EDF2F4;
   width: 100%;
   height: 80%;
-  margin-top: -480px;
+  margin-top: 400px;
   margin-left: 0px;
   display: flex;
   position: absolute;

@@ -8,7 +8,9 @@ import foto from './assets/org.jpg'
 import data from './data';
 import zero from './assets/priori.png'
 import icons from './assets/icon4.svg'
-import plans from './assets/tentaesse.svg'
+import plans from './assets/plano 1.svg'
+import plans1 from './assets/pano 2.svg'
+import plans2 from './assets/plano 3.svg'
 
 
 function App() {
@@ -73,7 +75,7 @@ function App() {
         <li style={{fontWeight:"bolder",}}> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PARA VOCÊ E SUA FAMÍLIA</li>
         
         <li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organização pessoal e profissional</li>
-        <li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cotação e Compras em Geral</li>
+        <li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cotação e Compras em geral</li>
         <li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cotação e Contratação de Serviços</li>
         <li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Controle de Pagamentos</li>
         <li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marcação de Consultas Médicas</li>
@@ -94,6 +96,8 @@ function App() {
         descricao={data[4].descricao}
       />
       <img  className="planb" src={plans}/>
+      <img  className="planb2" src={plans1}/>
+      <img  className="planb3" src={plans2}/>
 
  
      
