@@ -14,7 +14,7 @@ import plans from './assets/tentaesse.svg'
 function App() {
   function handleToggle() {
     const text = '';
-    const phone = '11983788956';
+    const phone = '5511983788956';
     window.location.href = `https://api.whatsapp.com/send?text=${text}&phone=${phone}`;
   }
 
